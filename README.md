@@ -1,4 +1,4 @@
-# 🤖 ai-hand-detection
+# 🤖 ai-hand-detection by Abhinav Krishna S B @ammas_kid
 ## 👋 About this project
 This is a web AI hand detection. You can use it in your web browser. This web application uses the camera of your device to detect your hand.
 
@@ -13,9 +13,7 @@ This is a web AI hand detection. You can use it in your web browser. This web ap
 <a href="https://ibb.co/T15LJDH"><img src="https://i.ibb.co/Vx8mb0v/Screenshot-2021-04-08-AI-hand-detection.png" alt="live AI-hand-detection"></a>
 
 ## 💪 Try it
-If you are not convinced yet just try it out here: https://woody.pizza/tensorflow/hand-detection/
-
-There is also an example where you can control the mouse by using your hand: https://woody.pizza/tensorflow/hand-detection/mouse
+If you are not convinced yet just inbox me out here: https://www.instagram.com/ammas_kid/
 
 ## 🌐 Multiple browser support
 Probably this will work with the most browsers, but here is a list which browsers I have tested: 
@@ -33,5 +31,5 @@ Probably this will work with the most browsers, but here is a list which browser
 |     Chrome     |     ✅     |
 
 ## ✌️ Credits
-- [Materialize](https://materializecss.com/)
-- [ml5js](https://ml5js.org/)
+https://www.instagram.com/ammas_kid/ 
+Kindly inbox me if you have any ideas for the next update.
