@@ -32,4 +32,4 @@ Probably this will work with the most browsers, but here is a list which browser
 
 ## ✌️ Credits
 https://www.instagram.com/ammas_kid/ 
-Kindly inbox me if you have any ideas for the next update.
+Kindly inbox me if you have any ideas for the next update...
